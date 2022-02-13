@@ -1,0 +1,148 @@
+Philippines,193.384
+Malaysia,76
+Japan,229.145
+"Viet Nam",121.099
+Australia,1094.264
+"Republic of Korea",88.519
+Mongolia,583.688
+Singapore,374.73
+China,0.09
+"Lao People's Democratic Republic",71.775
+Cambodia,1.376
+Fiji,164.539
+"French Polynesia",186.538
+"Papua New Guinea",0.38
+Guam,1540.513
+"Brunei Darussalam",57.374
+"New Caledonia",581.09
+"New Zealand",10.369
+"Northern Mariana Islands (Commonwealth of the)",521.222
+Palau,2116.958
+"Wallis and Futuna",0
+"Solomon Islands",38.434
+Kiribati,49.393
+"American Samoa",0
+Samoa,7.56
+Vanuatu,0
+"Marshall Islands",0
+Tonga,0
+"Cook Islands",0
+"Micronesia (Federated States of)",0
+Nauru,0
+Niue,0
+"Pitcairn Islands",0
+Tokelau,0
+Tuvalu,0
+CREATE TABLE data(
+  "Name" TEXT,
+  "WHO Region" TEXT,
+  "Cases - cumulative total" TEXT,
+  "Cases - cumulative total per 100000 population" TEXT,
+  "Cases - newly reported in last 7 days" TEXT,
+  "Cases - newly reported in last 7 days per 100000 population" TEXT,
+  "Cases - newly reported in last 24 hours" TEXT,
+  "Deaths - cumulative total" TEXT,
+  "Deaths - cumulative total per 100000 population" TEXT,
+  "Deaths - newly reported in last 7 days" TEXT,
+  "Deaths - newly reported in last 7 days per 100000 population" TEXT,
+  "Deaths - newly reported in last 24 hours" TEXT
+);
+CREATE TABLE data(
+  "Name" TEXT,
+  "WHO Region" TEXT,
+  "Cases - cumulative total" TEXT,
+  "Cases - cumulative total per 100000 population" TEXT,
+  "Cases - newly reported in last 7 days" TEXT,
+  "Cases - newly reported in last 7 days per 100000 population" TEXT,
+  "Cases - newly reported in last 24 hours" TEXT,
+  "Deaths - cumulative total" TEXT,
+  "Deaths - cumulative total per 100000 population" TEXT,
+  "Deaths - newly reported in last 7 days" TEXT,
+  "Deaths - newly reported in last 7 days per 100000 population" TEXT,
+  "Deaths - newly reported in last 24 hours" TEXT
+);
+CREATE TABLE data(
+  "Name" TEXT,
+  "WHO Region" TEXT,
+  "Cases - cumulative total" TEXT,
+  "Cases - cumulative total per 100000 population" TEXT,
+  "Cases - newly reported in last 7 days" TEXT,
+  "Cases - newly reported in last 7 days per 100000 population" TEXT,
+  "Cases - newly reported in last 24 hours" TEXT,
+  "Deaths - cumulative total" TEXT,
+  "Deaths - cumulative total per 100000 population" TEXT,
+  "Deaths - newly reported in last 7 days" TEXT,
+  "Deaths - newly reported in last 7 days per 100000 population" TEXT,
+  "Deaths - newly reported in last 24 hours" TEXT
+);
+data
+Philippines,193.384
+Malaysia,76
+Japan,229.145
+"Viet Nam",121.099
+Australia,1094.264
+"Republic of Korea",88.519
+Mongolia,583.688
+Singapore,374.73
+China,0.09
+"Lao People's Democratic Republic",71.775
+Cambodia,1.376
+Fiji,164.539
+"French Polynesia",186.538
+"Papua New Guinea",0.38
+Guam,1540.513
+"Brunei Darussalam",57.374
+"New Caledonia",581.09
+"New Zealand",10.369
+"Northern Mariana Islands (Commonwealth of the)",521.222
+Palau,2116.958
+"Wallis and Futuna",0
+"Solomon Islands",38.434
+Kiribati,49.393
+"American Samoa",0
+Samoa,7.56
+Vanuatu,0
+"Marshall Islands",0
+Tonga,0
+"Cook Islands",0
+"Micronesia (Federated States of)",0
+Nauru,0
+Niue,0
+"Pitcairn Islands",0
+Tokelau,0
+Tuvalu,0
+Philippines,193.384
+Malaysia,76
+Japan,229.145
+"Viet Nam",121.099
+Australia,1094.264
+"Republic of Korea",88.519
+Mongolia,583.688
+Singapore,374.73
+China,0.09
+"Lao People's Democratic Republic",71.775
+Cambodia,1.376
+Fiji,164.539
+"French Polynesia",186.538
+"Papua New Guinea",0.38
+Guam,1540.513
+"Brunei Darussalam",57.374
+"New Caledonia",581.09
+"New Zealand",10.369
+"Northern Mariana Islands (Commonwealth of the)",521.222
+Palau,2116.958
+"Wallis and Futuna",0
+"Solomon Islands",38.434
+Kiribati,49.393
+"American Samoa",0
+Samoa,7.56
+Vanuatu,0
+"Marshall Islands",0
+Tonga,0
+"Cook Islands",0
+"Micronesia (Federated States of)",0
+Nauru,0
+Niue,0
+"Pitcairn Islands",0
+Tokelau,0
+Tuvalu,0
